@@ -8,6 +8,7 @@ CleanPlanet app helps you to find volunteer cleaning events nearby your location
 
 ![Splash](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img1.png)
 <img src="https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/login.png" width="200" height="350">
+![Register](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/register.png)
 ![Feed](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img2.png)
 ![Compose](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img6.png)
 ![Profile](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img3.png)
