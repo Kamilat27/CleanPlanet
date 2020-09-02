@@ -4,7 +4,15 @@
 CleanPlanet app helps you to find volunteer cleaning events nearby your location. You can create or join cleaning events. Download the app and help us to keep our Earth clean!
 
 **Project Demo**: 
-[link to Youtube!](https://www.youtube.com/watch?v=eN1-hJ9LlEw)
+[link to Youtube (watch with English subtitle)](https://www.youtube.com/watch?v=eN1-hJ9LlEw)
+
+![Splash](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img1.png)
+<img src="https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/login.png" width="200" height="350">
+![Feed](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img2.png)
+![Compose](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img6.png)
+![Profile](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img3.png)
+![Map](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img5.png)
+![Detail](https://github.com/Kamilat27/CleanPlanet/blob/master/screenshots/img4.png)
 
 
 **Functionalities**
@@ -19,6 +27,7 @@ CleanPlanet app helps you to find volunteer cleaning events nearby your location
 
 ### Screen Types
 
+* Splash
 * Login 
 * Register - User signs up or logs into their account
 * Stream
