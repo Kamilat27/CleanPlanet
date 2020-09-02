@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CleanPlanet</string>
+    <string name="sign_up_button">Зарегистрироваться</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="ecoJem_textView">CleanPlanet</string>
+    <string name="email">Email</string>
+    <string name="password_editText">Пароль</string>
+    <string name="email_editText">Email</string>
+    <string name="phone_editText">Телефон</string>
+    <string name="user_firstName">Имя</string>
+    <string name="user_lastName">Фамилия</string>
+    <string name="event_title">Название</string>
+    <string name="username">Имя пользователя</string>
+    <string name="event_description">Описание...</string>
+    <string name="event_location">Место проведения</string>
+    <string name="event_organizer">Organizer</string>
+    <string name="event_date">Дата</string>
+    <string name="save_button">Сохранить</string>
+    <string name="event_time">Время проведения</string>
+    <string name="all_events">Все мероприятия</string>
+    <string name="my_events">Мои мероприятия</string>
+    <string name="compose_event">Создать мероприятие</string>
+
+</resources>
